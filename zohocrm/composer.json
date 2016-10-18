@@ -1,5 +1,5 @@
 {
-    "name": "mctekk/zohocrm",
+    "name": "diouro/zohocrmapi",
     "type": "library",
     "description": "Wrapper for interact with Zoho CRM API for php",
     "keywords": ["Zoho CRM API PHP Wrapper"],
@@ -13,15 +13,15 @@
         {
             "name": "Frangeris Peguero",
             "email": "frangeris.20@gmail.com",
-            "homepage": "https://github.com/mctekk/zohocrm"            
+            "homepage": "https://github.com/mctekk/zohocrm"
         },
         {
             "name": "Sparo Hawk",
-            "homepage": "https://github.com/mctekk/zohocrm"            
+            "homepage": "https://github.com/mctekk/zohocrm"
         },
         {
             "name": "Kaioken",
-            "homepage": "https://github.com/mctekk/zohocrm"            
+            "homepage": "https://github.com/mctekk/zohocrm"
         }
     ],
     "require": {
